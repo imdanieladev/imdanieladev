@@ -152,7 +152,7 @@ Interested in:
 
 ## 📫 Contact
 
-- Email: imdanieladev@gmail.com
+- Email: minseo.go.daniela@gmail.com
 - GitHub: https://github.com/imdanieladev
 - Portfolio: https://imdanieladev.vercel.app/
 - LinkedIn: www.linkedin.com/in/imdanieladev
